@@ -3,3 +3,7 @@ Hello! My name is Pragati, and I am a Computer Science and Engineering student a
 
 ## Skills
 Currently learning Java, C++, Python, and Web Development.
+
+
+## Interests
+Interested in software development, web technologies, problem-solving, and exploring new technologies.
