@@ -7,3 +7,7 @@ Currently learning Java, C++, Python, and Web Development.
 
 ## Interests
 Interested in software development, web technologies, problem-solving, and exploring new technologies.
+
+
+## Goals
+Goal: Build real-world projects, improve programming skills, and contribute to open-source projects.
